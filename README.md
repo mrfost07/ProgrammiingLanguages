@@ -1,4 +1,24 @@
-# AST Output Evaluation
+<h1 align="center">Hands-On Activity: AST in Programming Languages</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Concept-AST-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Code%20Analysis-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Intermediate-purple?style=for-the-badge">
+</p>
+
+<p align="center">
+  <i>Deep Dive into Code Structure, Execution Flow, and Syntax Representation</i>
+</p>
+
+---
+
+## The Objective
+
+This hands-on activity explores how Python represents code internally using **Abstract Syntax Trees (AST)**.  
+Instead of just writing code, you will analyze how Python *understands* it—breaking down loops, functions, conditionals, expressions, and classes into structured tree representations.
+
+---
 
 ## 1. Loops (For Loop)
 
